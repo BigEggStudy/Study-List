@@ -9,7 +9,7 @@ Study List majorly come from to part:
 * Master Program in UW
 * Online Open Course
 
-# Master Program in UW.
+## Master Program in UW.
 BigEgg take a Master Program in University of Washington. It called [PMP (Professional Master's Program)](https://www.cs.washington.edu/academics/pmp).
 
 Here is the repositories for classes that BigEgg take:
@@ -25,7 +25,8 @@ Here is the repositories for classes that BigEgg take:
 | [UW CSEP 517 - Au18 - Natural Language Processing](https://github.com/BigEggStudy/UW-CSEP-517-Au18-Natural-Language-Processing) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 546 - Au18 - Machine Learning](https://github.com/BigEggStudy/UW-CSEP-546-Au18-Machine-Learning) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 590B - Sp18 - Robotics](https://github.com/BigEggStudy/UW-CSEP-590B-Sp18-Robotics) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
-# Online Open Courses
+
+## Online Open Courses
 
 | Course Name | Status |
 | --- | --- |
