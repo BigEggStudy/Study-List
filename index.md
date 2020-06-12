@@ -1,5 +1,5 @@
 ---
-title: BigEgg Study List
+title: "BigEgg Study List"
 layout: default
 ---
 
