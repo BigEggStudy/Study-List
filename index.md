@@ -17,7 +17,7 @@ Here is the repositories for classes that BigEgg take:
 | Course Name | Status |
 | --- | --- |
 | TBD | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
-| [UW CSEP 576 - Sp20 - Computer Vision](https://github.com/BigEggStudy/UW-CSEP-576-Sp20-Computer-Vision) | ![Private](https://img.shields.io/badge/Private-orange.svg?style=flat-square) ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
+| [UW CSEP 576 - Sp20 - Computer Vision](https://github.com/BigEggStudy/UW-CSEP-576-Sp20-Computer-Vision) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 590C - Sp20 - Full Stack Deep Learning](https://github.com/BigEggStudy/UW-CSEP-590C-Sp20-Full-Stack-Deep-Learning) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 551 - Au19 - Operating System](https://github.com/BigEggStudy/UW-CSEP-551-Au19-Operating-System) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 557 - Sp19 - Computer Graphic](https://github.com/BigEggStudy/UW-CSEP-557-Sp19-Computer-Graphic) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
