@@ -36,3 +36,20 @@ Here is the repositories for classes that BigEgg take:
 | [UC Berkeley - CS 188 - Artificial Intelligence](https://github.com/BigEggStudy/UC-Berkeley-CS-188-Artificial-Intelligence) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [Coursera - Stanford - Machine Learning](https://github.com/BigEggStudy/Coursera-Stanford-Machine-Learning) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [Coursera - Princeton Algorithm](https://github.com/BigEggStudy/Coursera-Princeton-Algorithm) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
+
+## LeetCode
+
+### Algorithm
+
+| Languages | Build Status |
+| --------- | ------------ |
+| [C](https://github.com/BigEggStudy/LeetCode-C) | [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-c.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-c) |
+| [C++](https://github.com/BigEggStudy/LeetCode-CPP) | [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-cpp.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-cpp) |
+| [C#](https://github.com/BigEggStudy/LeetCode-CS) | [![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs) |
+| [Java](https://github.com/BigEggStudy/LeetCode-Java) | [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-java.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-java)[![Travis Build Status](https://img.shields.io/badge/Linux%20Build%20Status-Invalid-lightgrey.svg?label=Linux%20Build%20Status&logo=travis&style=flat-square)]() |
+| [JavaScript](https://github.com/BigEggStudy/LeetCode-JS) | [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-js.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-js)[![Travis Build Status](https://img.shields.io/badge/Linux%20Build%20Status-Invalid-lightgrey.svg?label=Linux%20Build%20Status&logo=travis&style=flat-square)]() |
+| [Python3](https://github.com/BigEggStudy/LeetCode-Py) | [![AppVeyor Build Status](https://img.shields.io/appveyor/ci/bigegg/leetcode-py.svg?style=flat-square&label=Windows%20Build%20Status&logo=AppVeyor)](https://ci.appveyor.com/project/BigEgg/leetcode-py)[![Travis Build Status](https://img.shields.io/badge/Linux%20Build%20Status-Invalid-lightgrey.svg?label=Linux%20Build%20Status&logo=travis&style=flat-square)]() |
+
+### Database
+
+* [MS SQL Server](https://github.com/BigEggStudy/LeetCode-MSSql)
