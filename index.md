@@ -16,7 +16,7 @@ Here is the repositories for classes that BigEgg take:
 
 | Course Name | Status |
 | --- | --- |
-| TBD | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
+| [UW CSEP 552 - Wi21 - Distributed Systems](https://courses.cs.washington.edu/courses/csep552/21wi/) | ![On Going](https://img.shields.io/badge/OnGoing-blue.svg?style=flat-square) |
 | [UW CSEP 576 - Sp20 - Computer Vision](https://github.com/BigEggStudy/UW-CSEP-576-Sp20-Computer-Vision) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 590C - Sp20 - Full Stack Deep Learning](https://github.com/BigEggStudy/UW-CSEP-590C-Sp20-Full-Stack-Deep-Learning) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 551 - Au19 - Operating System](https://github.com/BigEggStudy/UW-CSEP-551-Au19-Operating-System) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
@@ -31,11 +31,15 @@ Here is the repositories for classes that BigEgg take:
 | Course Name | Status |
 | --- | --- |
 | [Coursera - DeepLearning.ai - Deep Learning Specialization](https://github.com/BigEggStudy/Coursera-deeplearning.ai-Deep-Learning-Specialization) | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
-| [UW - CSEP 552 - Wi18 - Distributed Systems](https://github.com/BigEggStudy/UW-CSEP-552-Wi18-Distributed-Systems) | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
 | [MIT - 6.824 - Sp20 - Distributed Systems](https://github.com/BigEggStudy/MIT-6.824-Sp20-Distributed-Systems) | ![On Going](https://img.shields.io/badge/OnGoing-blue.svg?style=flat-square) |
 | [UC Berkeley - CS 188 - Artificial Intelligence](https://github.com/BigEggStudy/UC-Berkeley-CS-188-Artificial-Intelligence) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [Coursera - Stanford - Machine Learning](https://github.com/BigEggStudy/Coursera-Stanford-Machine-Learning) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [Coursera - Princeton Algorithm](https://github.com/BigEggStudy/Coursera-Princeton-Algorithm) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
+| [Coursera - Teamwork Skills: Communicating Effectively in Groups](https://www.coursera.org/learn/teamwork-skills-effective-communication#about) | ![On Going](https://img.shields.io/badge/OnGoing-blue.svg?style=flat-square) |
+| [Coursera - Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success) - [Influence](https://www.coursera.org/learn/wharton-influence) | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
+| [Coursera - Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success) - [Leading the Life You Want](https://www.coursera.org/learn/leading-the-life-you-want) | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
+| [Coursera - Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success) - [Improving Communication Skills](https://www.coursera.org/learn/wharton-communication-skills) | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
+| [Coursera - Achieving Personal and Professional Success Specialization](https://www.coursera.org/specializations/wharton-success) - [Success](https://www.coursera.org/learn/wharton-success) | ![Pending](https://img.shields.io/badge/Pending-yellow.svg?style=flat-square) |
 
 ## LeetCode
 
