@@ -16,7 +16,7 @@ Here is the repositories for classes that BigEgg take:
 
 | Course Name | Status |
 | --- | --- |
-| [UW CSEP 552 - Wi21 - Distributed Systems](https://courses.cs.washington.edu/courses/csep552/21wi/) | ![On Going](https://img.shields.io/badge/OnGoing-blue.svg?style=flat-square) |
+| [UW CSEP 552 - Wi21 - Distributed Systems](https://github.com/BigEggStudy/UW-CSEP-552-Wi21-Distributed-Systems) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 576 - Sp20 - Computer Vision](https://github.com/BigEggStudy/UW-CSEP-576-Sp20-Computer-Vision) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 590C - Sp20 - Full Stack Deep Learning](https://github.com/BigEggStudy/UW-CSEP-590C-Sp20-Full-Stack-Deep-Learning) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
 | [UW CSEP 551 - Au19 - Operating System](https://github.com/BigEggStudy/UW-CSEP-551-Au19-Operating-System) | ![Complete](https://img.shields.io/badge/Complete-green.svg?style=flat-square) |
